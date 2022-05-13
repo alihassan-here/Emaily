@@ -14,7 +14,9 @@
   "author": "Ali Hassan",
   "license": "MIT",
   "dependencies": {
+    "cookie-session": "^2.0.0",
     "express": "^4.15.3",
+    "mongoose": "^6.3.3",
     "nodemon": "^2.0.16",
     "passport": "^0.3.2",
     "passport-google-oauth20": "^2.0.0"
